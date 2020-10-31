@@ -2,7 +2,7 @@
     "name": "flutter_geo",
     "short_name": "flutter_geo",
     "start_url": ".",
-    "display": "standalone",
+    "display": "fullscreen",
     "background_color": "#0233a",
     "theme_color": "#0175C2",
     "description": "A new Flutter project.",
