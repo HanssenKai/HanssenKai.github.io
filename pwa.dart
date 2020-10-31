@@ -17,6 +17,8 @@ void main() {
   // List<String> offlineUrls = new List.from(offline.offlineUrls);
   // offlineUrls.addAll(['https://www.example.org/custom/resource/']);
   // worker.offlineUrls = offlineUrls;
+  List<String> offlineUrls = new List.from(offline.offlineUrls);
+  offlineUrls.addAll(['https://hanssenkai.github.io']);
 
   // Fine-tune the caching and network fetch with dynamic caches and cache
   // strategies on the url-prefixed network routes:
