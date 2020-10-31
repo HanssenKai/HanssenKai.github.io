@@ -1,13 +1,12 @@
 {
-    "name": "flutter_geo",
-    "short_name": "flutter_geo",
-    "start_url": ".",
-    "display": "fullscreen",
-    "background_color": "#0233a",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
-    "prefer_related_applications": false,
+    "name": "geo_catch",
+    "short_name": "GC",
+    "theme_color": "#4b21f3",
+    "background_color": "#2143f3",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
     "icons": [
         {
             "src": "icons/Icon-192.png",
